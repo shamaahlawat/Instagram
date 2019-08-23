@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "193388079100",
+    "firebase_url": "https://insagram-f2227.firebaseio.com",
+    "project_id": "insagram-f2227",
+    "storage_bucket": "insagram-f2227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193388079100:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193388079100-f1scgi8j9gnpf2f9mo4g5poboo9sfmoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "39c44704643520807a8cb9f03b2c26e8042b34d8"
+          }
+        },
+        {
+          "client_id": "193388079100-52kd34tagtul0qlo5h0i9jt9acbm9pj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUf6naOs8fWhCZVqr1YJNGk4TJHzaUrX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193388079100-52kd34tagtul0qlo5h0i9jt9acbm9pj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
